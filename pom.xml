@@ -88,5 +88,5 @@
                 <version>2.15</version>
             </plugin>
         </plugins>
-    <reporting>
+    </reporting>
 </project>
